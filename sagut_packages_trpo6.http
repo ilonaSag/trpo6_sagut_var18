@@ -1,0 +1,6 @@
+@sagut_packages_trpo6_HostAddress = http://localhost:5277
+
+GET {{sagut_packages_trpo6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

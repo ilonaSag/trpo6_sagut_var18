@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\service\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:service\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|c:\\users\\st310-06\\documents\\\u0441\u0430\u0433\\sagut_packages_trpo6\\sagut_packages_trpo6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CEE6CA0-29A2-4E52-9D86-105876C1E105}|sagut_packages_trpo6.csproj|solutionrelative:sagut_packages_trpo6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:23:44.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PackageController.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "Controllers\\PackageController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T03:45:58.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Models\\Vacancy.cs",
+              "RelativeDocumentMoniker": "Models\\Vacancy.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Models\\Vacancy.cs",
+              "RelativeToolTip": "Models\\Vacancy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T03:36:16.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackageService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Service\\PackageService.cs",
+              "RelativeDocumentMoniker": "Service\\PackageService.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Service\\PackageService.cs",
+              "RelativeToolTip": "Service\\PackageService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:20:39.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Service\\DBService.cs",
+              "RelativeDocumentMoniker": "Service\\DBService.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Service\\DBService.cs",
+              "RelativeToolTip": "Service\\DBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:09:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sagut_packages_trpo6.csproj",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\sagut_packages_trpo6.csproj",
+              "RelativeDocumentMoniker": "sagut_packages_trpo6.csproj",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\sagut_packages_trpo6.csproj",
+              "RelativeToolTip": "sagut_packages_trpo6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T09:59:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:35:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:35:06.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "Models\\Package.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Models\\Package.cs",
+              "RelativeToolTip": "Models\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:29:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Models\\WebApiDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Models\\WebApiDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\\u0421\u0430\u0433\\sagut_packages_trpo6\\Models\\WebApiDatabaseContext.cs",
+              "RelativeToolTip": "Models\\WebApiDatabaseContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:29:24.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

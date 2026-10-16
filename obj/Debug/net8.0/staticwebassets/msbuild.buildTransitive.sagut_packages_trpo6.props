@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\sagut_packages_trpo6.props" />
+</Project>
